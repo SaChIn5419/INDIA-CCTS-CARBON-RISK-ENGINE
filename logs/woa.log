@@ -1,0 +1,15 @@
+2026-05-17 18:45:09,273 - woa_optimizer - INFO - Starting WOA Optimization. Pop Size: 5, Iterations: 10
+2026-05-17 18:45:11,494 - woa_optimizer - INFO - Iteration 0: Best K=4, alpha=654.78, Score=5.0331
+2026-05-17 18:45:11,928 - woa_optimizer - INFO - Iteration 2: Best K=3, alpha=493.91, Score=4.9893
+2026-05-17 18:45:12,113 - woa_optimizer - INFO - Iteration 4: Best K=3, alpha=616.15, Score=4.9843
+2026-05-17 18:45:12,230 - woa_optimizer - INFO - Iteration 6: Best K=3, alpha=616.15, Score=4.9843
+2026-05-17 18:45:12,360 - woa_optimizer - INFO - Iteration 8: Best K=3, alpha=616.90, Score=4.9842
+2026-05-17 18:45:12,426 - woa_optimizer - INFO - WOA Complete. Optimal Parameters - K: 3, alpha: 616.90
+2026-05-17 18:46:27,972 - woa_optimizer - INFO - Starting WOA Optimization. Pop Size: 3, Iterations: 2
+2026-05-17 18:46:29,064 - woa_optimizer - INFO - Iteration 0: Best K=9, alpha=2823.31, Score=4.4962
+2026-05-17 18:46:29,232 - woa_optimizer - INFO - Iteration 1: Best K=9, alpha=2816.13, Score=4.4961
+2026-05-17 18:46:29,232 - woa_optimizer - INFO - WOA Complete. Optimal Parameters - K: 9, alpha: 2816.13
+2026-05-17 18:49:35,548 - woa_optimizer - INFO - Starting WOA Optimization. Pop Size: 3, Iterations: 2
+2026-05-17 18:49:36,324 - woa_optimizer - INFO - Iteration 0: Best K=3, alpha=2354.01, Score=4.4995
+2026-05-17 18:49:36,372 - woa_optimizer - INFO - Iteration 1: Best K=3, alpha=1825.70, Score=4.4985
+2026-05-17 18:49:36,372 - woa_optimizer - INFO - WOA Complete. Optimal Parameters - K: 3, alpha: 1825.70
